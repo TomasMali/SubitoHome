@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;task&apos; in &apos;DemoSchedulers.DemoScheduler.runThreadWithTask()&apos; to &apos;taskMipaafTecnicheWebService&apos;&#x0A;- Original project: &apos;GooleWeather&apos;&#x0A;- Original element: &apos;DemoSchedulers.DemoScheduler.runThreadWithTask().task&apos;&#x0A;- Renamed element: &apos;task&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;task&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;DemoSchedulers{DemoScheduler.java[DemoScheduler~runThreadWithTask@task!1367!3320!1376!1379!QRunnable;!0!false" name="taskMipaafTecnicheWebService" references="true" stamp="1543561179361" version="1.0"/>
+</session>

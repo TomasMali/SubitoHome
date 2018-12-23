@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.net.HttpURLConnection"/>
+<fullyQualifiedTypeName name="DAO.User"/>
+<fullyQualifiedTypeName name="java.net.URLConnection"/>
+<fullyQualifiedTypeName name="DAO.Queries"/>
+<fullyQualifiedTypeName name="com.sun.research.ws.wadl.Link"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="DAO.UserAdmin"/>
+<fullyQualifiedTypeName name="CallMatches.CommandsMatches"/>
+<fullyQualifiedTypeName name="Schedulers.Scheduler"/>
+<fullyQualifiedTypeName name="org.apache.commons.logging.impl.ServletContextCleaner"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="DAO.Links"/>
+<fullyQualifiedTypeName name="java.util.concurrent.ScheduledExecutorService"/>
+<fullyQualifiedTypeName name="ConnectionDB.Queries"/>
+<fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.text.ParseException"/>
+</qualifiedTypeNameHistroy>

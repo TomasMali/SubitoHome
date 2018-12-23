@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ShowViewDialog">
+		<item value="372" key="DIALOG_WIDTH"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="org.eclipse.mylyn.builds.navigator.builds" key="ShowViewDialog.STORE_SELECTED_VIEW_ID"/>
+		<item value="445" key="DIALOG_HEIGHT"/>
+		<item value="749" key="DIALOG_X_ORIGIN"/>
+		<item value="231" key="DIALOG_Y_ORIGIN"/>
+		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="Mylyn"/>
+			<item value="Oomph"/>
+			<item value="Team"/>
+			<item value="XML"/>
+		</list>
+	</section>
+</section>
